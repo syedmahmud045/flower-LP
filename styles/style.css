@@ -126,11 +126,11 @@ header {
 
 /* contact  */
 .contact{
-    background: url("images/Rectangle 9.png");
+    background: url("/images/Rectangle9.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 120px 250px;
+    padding: 120px 150px;
 }
 .form{
     display: flex;
